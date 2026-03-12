@@ -1,0 +1,100 @@
+﻿Sample Name,Correct ID,SIF Top Species,SIF Top Score,SIF Family ID
+20131209_P96solsRun_0_A11,Rhinocerotidae,Diceros bicornis minor,156,Rhinocerotidae
+20140121_PH48SOLrun_0_H3,Rhinocerotidae,Equus quagga,193,Equidae
+20131218_PH92solRun_0_E18,Rhinocerotidae,Diceros bicornis minor,136,Rhinocerotidae
+20140121_PH48SOLrun_0_M23,Rhinocerotidae,Diceros bicornis minor,136,Rhinocerotidae
+20131112_P132sols_0_G21 - Copy,Rhinocerotidae,Diceros bicornis minor,106,Rhinocerotidae
+20140121_PH40SOLrun_0_K10,Rhinocerotidae,Diceros bicornis minor,170,Rhinocerotidae
+20140131_PH4SOLrun_0_P19,Rhinocerotidae,Diceros bicornis minor,134,Rhinocerotidae
+20131218_PH92solRun_0_O4 - Copy,Rhinocerotidae,Diceros bicornis minor,57,Rhinocerotidae
+20140221_PH108solRun_0_H5,Rhinocerotidae,Diceros bicornis minor,109,Rhinocerotidae
+20140114_PH84SOLrun_0_C17,Elephantidae,Elephas maximus indicus,125,Elephantidae
+20140121_PH48SOLrun_0_P8,Elephantidae,Elephas maximus indicus,177,Elephantidae
+20131112_P132sols_0_J23,Elephantidae,Elephas maximus indicus,171,Elephantidae
+20140210_PH120SOLrun_0_M6,Elephantidae,Elephas maximus indicus/Loxodonta africana,101,Elephantidae
+20140113_PH88SOL_0_O1,Elephantidae,Elephas maximus indicus,104,Elephantidae
+20140116_PH52SOLrun_0_G16,Elephantidae,Loxodonta africana,141,Elephantidae
+20140221_PH108solRun_0_N20,Elephantidae,Elephas maximus indicus,112,Elephantidae
+20131209_P96solsRun_0_O17,Elephantidae,Elephas maximus indicus/Loxodonta africana,195,Elephantidae
+20140225_PH104solRun_0_I15,Elephantidae,Elephas maximus indicus,123,Elephantidae
+20140210_PH128SOLrun_0_E17,Elephantidae,Loxodonta africana/Elephas maximus indicus,152,Elephantidae
+20140123_PH32SOLrun_0_P13,Leporidae,Lepus europaeus,145,Leporidae
+20140113_PH88SOL_0_E13,Leporidae,Lepus europaeus,137,Leporidae
+20140122_PH36SOLrun_0_H19,Leporidae,Lepus europaeus,93,Leporidae
+20131112_P132sols_0_O18,Leporidae,Lepus europaeus,208,Leporidae
+20140219_PH112solRUN_0_A2,Leporidae,Lepus europaeus,112,Leporidae
+20140128_PH12SOLrun_0_F14,Leporidae,Lepus europaeus,118,Leporidae
+20131112_P132sols_0_K20,Leporidae,Lepus europaeus,189,Leporidae
+20140114_PH84SOLrun_0_C13,Leporidae,Lepus europaeus,86,Leporidae
+20131218_PH92solRun_0_E14,Leporidae,Lepus europaeus,82,Leporidae
+20140122_PH44SOLrun_0_N1,Leporidae,Lepus europaeus/Oryctolagus cuniculus,156,Leporidae
+20140225_PH104solRun_0_K15,Equidae,Equus caballus/Equus asinus/Equus quagga,59,Equidae
+20131209_P96solsRun_0_N18,Equidae,Equus caballus/Equus asinus/Equus quagga,141,Equidae
+20140225_PH104solRun_0_A20,Equidae,Equus caballus/Equus asinus/Equus quagga,95,Equidae
+20140210_PH120SOLrun_0_A4,Equidae,Equus caballus,132,Equidae
+20131112_P132sols_0_G7,Equidae,Equus quagga,172,Equidae
+20140122_PH36SOLrun_0_L8,Equidae,Equus quagga,218,Equidae
+20140121_PH40SOLrun_0_M18,Equidae,Equus quagga/Equus caballus,146,Equidae
+20140123_PH32SOLrun_0_G21,Equidae,Equus quagga/Equus asinus,121,Equidae
+20140217_PH116solRUN_0_H4,Equidae,Equus quagga,182,Equidae
+20131218_PH92solRun_0_G12,Equidae,Equus caballus/Equus quagga,150,Equidae
+20140113_PH88SOL_0_L1,Cervidae,Odocoileus virginianus texanus/Moschus berezovskii,122,Cervidae/Moschidae
+20131218_PH92solRun_0_G13,Cervidae,Oryx dammah,153,Bovidae
+20131218_PH92solRun_0_M23,Cervidae,Oryx dammah/Capra hircus,157,Bovidae
+20131218_PH92solRun_0_A21,Cervidae,Odocoileus virginianus texanus,179,Cervidae
+20131218_PH92solRun_0_F24,Cervidae,Cervus elaphus/Cervus canadensis,130,Cervidae
+20140113_PH88SOL_0_E5,Cervidae,Odocoileus virginianus texanus/Capra hircus,135,Bovidae
+20131112_P132sols_0_H9,Cervidae,Capra hircus,81,Bovidae
+20140123_PH32SOLrun_0_P5,Cervidae,Cervus canadensis/Dama dama/Cervus elaphus,146,Cervidae
+20140113_PH88SOL_0_J23,Cervidae,Odocoileus virginianus texanus/Moschus berezovskii,120,Cervidae/Moschidae
+20140123_PH24SOLrun_0_N24,Cervidae,Cervus elaphus/Cervus canadensis,145,Cervidae
+20140123_PH28SOLrun_0_I17,Bovidae,Bison bison bison/Bos indicus x Bos taurus/Bos indicus/Bos taurus/Bos javanicus,168,Bovidae
+20131209_P96solsRun_0_N5,Bovidae,Bos javanicus/Bos indicus x Bos taurus/Bos taurus/Bos indicus/Bison bison bison,139,Bovidae
+20131218_PH92solRun_0_K13,Bovidae,Bos indicus/Bos javanicus/Bison bison bison/Bos taurus/Bos indicus x Bos taurus,149,Bovidae
+20131218_PH92solRun_0_C12,Bovidae,Bos indicus/Bos taurus/Bison bison bison/Bos indicus x Bos taurus/Bos javanicus,164,Bovidae
+20140129_PH8SOLrun_0_A22,Bovidae,Bos javanicus/Bos indicus/Bos indicus x Bos taurus/Bos taurus/Bison bison bison,137,Bovidae
+20131218_PH92solRun_0_F21,Bovidae,Bos indicus x Bos taurus/Bos javanicus/Bos taurus/Bison bison bison/Bos indicus,147,Bovidae
+20131218_PH92solRun_0_N6,Bovidae,Bos indicus/Bos taurus/Bos indicus x Bos taurus/Bos javanicus/Bison bison bison,109,Bovidae
+20131112_P132sols_0_C10,Bovidae,Bos javanicus/Bos indicus x Bos taurus/Bison bison bison/Bos indicus/Bos taurus,109,Bovidae
+20140217_PH116solRUN_0_E16,Bovidae,Bos indicus/Bos javanicus/Bos taurus/Bison bison bison/Bos indicus x Bos taurus,125,Bovidae
+20140221_PH108solRun_0_F9,Bovidae,Bos indicus x Bos taurus/Bison bison bison/Bos javanicus/Bos taurus,123,Bovidae
+20140122_PH36SOLrun_0_A22,Canidae,Canis lupus dingo/Nyctereutes procyonoides,146,Canidae
+20131112_P132sols_0_A7,Canidae,Canis lupus dingo,156,Canidae
+20140116_PH60SOLrun_0_I17,Canidae,Nyctereutes procyonoides,132,Canidae
+20131112_P132sols_0_L4,Canidae,Vulpes vulpes/Vulpes lagopus,183,Canidae
+20140210_PH120SOLrun_0_G4,Canidae,Canis lupus dingo/Nyctereutes procyonoides,158,Canidae
+20140115_PH80SOLrun_0_J15,Canidae,Vulpes vulpes/Canis lupus dingo/Vulpes lagopus/Nyctereutes procyonoides,126,Canidae
+20131209_P96solsRun_0_B24,Canidae,Canis lupus dingo,114,Canidae
+20140225_PH104solRun_0_M19,Canidae,Nyctereutes procyonoides,90,Canidae
+20140219_PH112solRUN_0_D13,Canidae,Nyctereutes procyonoides/Canis lupus dingo/Vulpes vulpes/Vulpes lagopus,107,Canidae
+20131218_PH92solRun_0_C23,Canidae,Canis lupus dingo,160,Canidae
+20140116_PH68SOLrun_0_N5,Muridae,Apodemus sylvaticus,155,Muridae
+20140114_PH84SOLrun_0_G11,Muridae,Apodemus sylvaticus,106,Muridae
+20140116_PH52SOLrun_0_L3,Muridae,Apodemus sylvaticus,137,Muridae
+20140122_PH36SOLrun_0_D13,Muridae,Apodemus sylvaticus,155,Muridae
+20140121_PH40SOLrun_0_J23,Muridae,Apodemus sylvaticus,187,Muridae
+20140123_PH24SOLrun_0_H20,Muridae,Apodemus sylvaticus,152,Muridae
+20140122_PH36SOLrun_0_C23,Muridae,Apodemus sylvaticus,182,Muridae
+20140113_PH88SOL_0_M9,Muridae,Apodemus sylvaticus,115,Muridae
+20140116_PH52SOLrun_0_D4,Muridae,Apodemus sylvaticus,180,Muridae
+20140122_PH36SOLrun_0_D15,Muridae,Apodemus sylvaticus,145,Muridae
+20140123_PH24SOLrun_0_B7,Mustelidae,Meles meles,127,Mustelidae
+20131209_P96solsRun_0_P15,Mustelidae,Mustela lutreola/Mustela erminea/Neogale vison/Mustela nigripes/Lutra lutra/Mustela putorius furo,142,Mustelidae
+20140210_PH124SOLrun_0_E2,Mustelidae,Mustela lutreola/Mustela putorius furo/Neogale vison/Mustela nigripes/Mustela erminea/Lutra lutra,131,Mustelidae
+20140217_PH116solRUN_0_E4,Mustelidae,Lutra lutra/Mustela lutreola/Mustela nigripes/Mustela erminea/Mustela putorius furo/Neogale vison,114,Mustelidae
+20140131_PH4SOLrun_0_P17,Mustelidae,Lontra canadensis/Mustela erminea/Mustela nigripes/Mustela putorius furo/Neogale vison/Lutra lutra/Mustela lutreola,141,Mustelidae
+20140123_PH28SOLrun_0_M18,Mustelidae,Mustela erminea/Neogale vison/Mustela nigripes/Mustela lutreola/Mustela putorius furo,111,Mustelidae
+20140217_PH116solRUN_0_K1,Mustelidae,Mustela erminea/Neogale vison/Mustela putorius furo/Mustela lutreola/Mustela nigripes,120,Mustelidae
+20140221_PH108solRun_0_L1,Mustelidae,Mustela putorius furo/Neogale vison/Mustela lutreola/Mustela nigripes/Mustela erminea,86,Mustelidae
+20140124_PH20SOLrun_0_K16,Mustelidae,Lutra lutra,107,Mustelidae
+20131112_P132sols_0_M10,Mustelidae,Mustela putorius furo/Mustela lutreola/Mustela erminea/Mustela nigripes/Lutra lutra/Neogale vison,155,Mustelidae
+20140217_PH116solRUN_0_C17,Ursus,Ailuropoda melanoleuca,159,Ursus
+20131112_P132sols_0_L16,Ursus,Ursus arctos/Ursus americanus,207,Ursus
+20140129_PH8SOLrun_0_B24,Ursus,Ailuropoda melanoleuca,158,Ursus
+20140219_PH112solRUN_0_A23,Ursus,Ursus americanus/Ursus arctos,157,Ursus
+20140121_PH40SOLrun_0_M22,Ursus,Ailuropoda melanoleuca/Ursus maritimus/Ursus arctos/Ursus americanus,122,Ursus
+20140122_PH36SOLrun_0_N6,Ursus,Ursus americanus/Ursus arctos,157,Ursus
+20140210_PH128SOLrun_0_J13,Ursus,Ailuropoda melanoleuca/Ursus americanus/Ursus arctos,111,Ursus
+20140123_PH32SOLrun_0_K9,Ursus,Ursus arctos/Ursus americanus,134,Ursus
+20140113_PH88SOL_0_M23,Ursus,Ailuropoda melanoleuca,197,Ursus
+20140121_PH40SOLrun_0_B21,Ursus,Ursus americanus/Ursus arctos,127,Ursus
