@@ -4,3 +4,4 @@
 
 #mac-os default
 .DS_Store
+\n# Data and results\nresults/
