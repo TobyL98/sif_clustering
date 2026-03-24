@@ -21,3 +21,5 @@ ipykernel = ">=7.2.0,<8"
 
 [pypi-dependencies]
 casi = { git = "https://github.com/TobyL98/RP1_m-z_speciesidentify.git" }
+scikit-learn-extra = ">=0.3.0, <0.4"
+hdbscan = ">=0.8.41, <0.9"

@@ -6,17 +6,16 @@ from pathlib import Path
 import os
 from src.phase4_clustering import run_phase4
 
-def test_run_phase4(tmp_path):
-    """Verify that Phase 4 orchestration generates the results file."""
-    # Create mock results directory structure
+def test_run_phase4_multi(tmp_path):
+    """Verify that Phase 4 generates all 5 expected clustering result columns."""
     results_dir = tmp_path / "results"
     results_dir.mkdir()
     
-    # Mock binary feature matrix (10 samples, 5 bins)
+    # Create mock binary matrix
     X_df = pd.DataFrame(
-        np.random.randint(0, 2, size=(10, 5)),
-        index=[f"S{i}" for i in range(10)],
-        columns=[f"bin{i}" for i in range(5)]
+        np.random.randint(0, 2, size=(20, 10)),
+        index=[f"S{i}" for i in range(20)],
+        columns=[f"bin{i}" for i in range(10)]
     )
     X_df.to_csv(results_dir / "feature_matrix_binary.csv")
     
@@ -29,11 +28,21 @@ def test_run_phase4(tmp_path):
             n_clusters=2
         )
         
-        # Verify output files
+        # Verify result file
         assert Path("results/clustering_results.csv").exists()
-        assert "KMeans_Cluster" in results_df.columns
-        assert "Hierarchical_Cluster" in results_df.columns
-        assert len(results_df) == 10
+        
+        # Check all methods are present (The names returned by the methods in ClusteringModel)
+        expected_cols = [
+            "KMeans_Cluster", 
+            "Hierarchical_ward_euclidean_Cluster", 
+            "Hierarchical_average_jaccard_Cluster", 
+            "Spectral_Cluster", 
+            "HDBSCAN_Cluster"
+        ]
+        for col in expected_cols:
+            assert col in results_df.columns
+        
+        assert len(results_df) == 20
         
     finally:
         os.chdir(original_cwd)
