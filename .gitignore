@@ -5,3 +5,4 @@
 #mac-os default
 .DS_Store
 \n# Data and results\nresults/
+\n# Python bytecode\n**/__pycache__/

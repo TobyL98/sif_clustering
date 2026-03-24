@@ -39,7 +39,7 @@ All scripts using randomized algorithms (e.g., PCA, t-SNE, K-Means) must set a f
 The `peaklist_inputs/` directory must be treated as read-only. All intermediate data (binned matrices, normalized features) and final results (plots, metrics) must be saved to a `results/` or `output/` directory.
 
 ## Path Management
-Always use project-root relative paths (utilizing `pathlib`) for data loading to ensure scripts remain portable and runnable via `pixi run` from any directory.
+Always use project-root relative paths (utilizing `pathlib.Path`) for data loading to ensure scripts remain portable and runnable via `pixi run` from any directory. **Use `pathlib.Path` for ALL filesystem-related code in Python (no `os.path` or raw strings for paths).**
 
 ## Dependency Management
 Before implementing new phases, verify that all necessary dependencies (e.g., `scikit-learn`, `pandas`, `seaborn`) are explicitly defined in `pixi.toml` and synchronized.
